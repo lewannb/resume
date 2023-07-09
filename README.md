@@ -21,7 +21,7 @@
 
 **最后**
 
-访问 https://visiky.github.io/resume?user={user}&branch={branch}
+访问 https://visiky.github.io/resume?user=lewannb&branch=master
 
 参数说明:
 
